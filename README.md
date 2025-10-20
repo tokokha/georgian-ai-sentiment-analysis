@@ -1,4 +1,4 @@
-# Sentiment Analysis of AI in Georgian Media
+# Public Perception Analysis of AI in Georgian Media
 
 A comprehensive analysis of how artificial intelligence is discussed and perceived in Georgian media using BERTopic and transformer-based sentiment classification.
 
