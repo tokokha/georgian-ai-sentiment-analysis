@@ -97,13 +97,13 @@ See `requirements.txt` for specific versions.
 
 ## Data & Model Attribution
 
-**Dataset**: [Georgian Corpus](https://huggingface.co/datasets/RichNachos/georgian-corpus) (RichNachos) - GPL-3.0 License
+**Dataset**: [Georgian Corpus](https://huggingface.co/datasets/RichNachos/georgian-corpus) - GPL-3.0 License
 
 **Sentiment Analysis Model**: [GeorgianBert-Sent](https://huggingface.co/Arseniy-Sandalov/GeorgianBert-Sent)
 
 ### Citation
 
-If you use the sentiment analysis model in your research, please cite:
+If you use the **GeorgianBert-Sent** model (used in this project for sentiment classification), please cite:
 
 ```bibtex
 @misc{Stefanovitch2023Sentiment,
