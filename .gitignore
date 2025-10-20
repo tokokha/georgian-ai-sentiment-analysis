@@ -209,3 +209,5 @@ __marimo__/
 # Large data files
 corpora/
 data/processed_corpus.parquet
+
+bertopic-env/
